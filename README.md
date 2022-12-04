@@ -1,12 +1,10 @@
-### Ola! sou José Augusto, futuro Dev  
+# Ola! sou José Augusto, futuro Dev ...
 
-- 🌱 Estudando Python
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: amante de tecnologias 
-
-<div align="lefth" dir "auto">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseGcouto&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGcouto&amp;layout=compact&amp;langs_count=7&amp;theme=dark" style="max-width: 100%;">
+:snake:Estudando Python:snake:
+ 
+<div align="lefth">
+ <img height="155px" width src="https://github-readme-stats.vercel.app/api?username=JoseGcouto&amp;show_icons=true&amp;theme=dark&amp;ring_color=4cbd49&amp;include_all_commits=true&amp;count_private=true&amp;card_width=550px"/>
+ <img height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGcouto&amp;layout=default&amp;langs_count=7&amp;theme=dark&amp;card_width=100"/>
 </div>
 
 <div style="display: inline_block"><br>
