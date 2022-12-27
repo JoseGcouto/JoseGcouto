@@ -9,6 +9,10 @@
 <div align="lefth">
  <img height="180px" width src="https://github-readme-stats.vercel.app/api?username=JoseGcouto&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true"/>
 </div>
+ 
+ <div>
+  <img src="file:///D:/Users/Eu/Downloads/Design%20sem%20nome.svg"/>
+ </div>
 
  
 ## Tecnologias que eu uso no meu dia:
