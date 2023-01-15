@@ -6,6 +6,8 @@
    <a href="https://www.instagram.com/Buga.py/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
  
+ ![Jose GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseGcouto&show_icons=true&theme=dracula&count_private=true)
+ 
 
 ### Minhas Tecnologias :
  
